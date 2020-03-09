@@ -432,7 +432,7 @@ class TidalAccount(object):
     def __init__(self, username, password, bymobile=False):
         token = '4zx46pyr9o8qZNRw'
         if bymobile == True:
-            token = 'kgsOOmYk3zShYrNP'
+            token = '4zx46pyr9o8qZNRw'
 
         self.username = username
         self.token = token
